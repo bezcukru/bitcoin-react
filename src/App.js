@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <h1>Bitcoin</h1>
+       <h1>Bitcoin - kurs wymiany:</h1>
       </header>
       <Crypto />
     </div>
