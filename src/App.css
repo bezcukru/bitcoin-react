@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.crypto-list {
+  list-style: none;
+}
+.crypto-list li {
+  padding: 10px;
+  border: 1px solid black;
+  width: 50%;
+  margin: 5px auto;
+}
+.blue {
+  color: blue;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+input {
+  margin: 10px auto;
+}
